@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervrocess",
+        "uuid": 10683776,
+        "checksum": "ekke7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
